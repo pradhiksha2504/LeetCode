@@ -1,0 +1,18 @@
+class Solution:
+    def isIsomorphic(self, s: str, t: str) -> bool:
+        if len(s)!=len(t):
+            return False
+        f = {}
+        l= 0
+        while l<len(s):
+            if s[l] in f:
+                if f[s[l]] != t[l]:
+                    return False
+            else:
+                if t[l] in f.values():
+                    return False
+                f[s[l]] = t[l]
+            l+=1
+        return True
+
+        
