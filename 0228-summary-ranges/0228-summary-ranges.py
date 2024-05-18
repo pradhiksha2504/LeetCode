@@ -11,13 +11,11 @@ class Solution:
                 if i == n-1:
                     ans.extend([nums[i],nums[i]])
             else:
+                ans.append(nums[i-1])
+                ans.append(nums[i])
                 if i == n-1:
-                    ans.append(nums[i-1])
-                    ans.extend([nums[i],nums[i]])
-                else:
-                    ans.append(nums[i-1])
                     ans.append(nums[i])
-        print(ans)
+                
         res=[]
         i = 0
         while i < len(ans)-1:
@@ -26,7 +24,6 @@ class Solution:
             else:
                 res.append(str(ans[i]))
             i+=2
-        print(res)
         return res
 
         
