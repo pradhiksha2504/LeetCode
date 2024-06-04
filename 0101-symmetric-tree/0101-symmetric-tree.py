@@ -9,6 +9,8 @@ class Solution:
         def isMirror(root1, root2):
             if root1 is None and root2 is None:
                 return True
+            if root1 is None or root2 is None:
+                return False
             else:
                 if root1 and root2:
                     if root1.val == root2.val:
