@@ -11,10 +11,10 @@ class Solution:
                 return 0
             leftTree = height(node.left, ans)
             rightTree = height(node.right, ans)
-            ans[0] = max(ans[0], 1 + leftTree + rightTree)
+            ans[0] = max(ans[0], leftTree + rightTree)
             return 1 + max(leftTree, rightTree)
         if root is None:
             return 0
         ans = [-99999999999]
         h = height(root, ans)
-        return ans[0] - 1
+        return ans[0]
