@@ -15,6 +15,6 @@ class Solution:
             return 1 + max(leftTree, rightTree)
         if root is None:
             return 0
-        ans = [-99999999999]
+        ans = [0]
         h = height(root, ans)
         return ans[0]
