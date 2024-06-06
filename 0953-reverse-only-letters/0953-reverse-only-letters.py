@@ -1,0 +1,18 @@
+class Solution:
+    def reverseOnlyLetters(self, s: str) -> str:
+        s = list(s)
+        print(s)
+        l = 0
+        r = len(s) -1
+        # n = r
+        while l<r:
+            if s[l].isalpha():
+                if s[r].isalpha():
+                    s[l], s[r] = s[r], s[l]
+                    l += 1
+                    r -= 1
+                else:
+                    r -= 1
+            else:
+                l += 1
+        return "".join(map(str,s))
