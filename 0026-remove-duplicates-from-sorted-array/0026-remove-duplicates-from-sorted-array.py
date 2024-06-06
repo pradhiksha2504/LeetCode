@@ -7,7 +7,6 @@ class Solution:
             if nums[i] in nums[i+1:]:
                 k += 1
                 for j in range(nums[i+1:].count(nums[i])):
-                    x = nums[i]
                     nums.append(nums.pop(i+1))
             i += 1
         return n-k
