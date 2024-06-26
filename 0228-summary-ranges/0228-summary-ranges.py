@@ -15,7 +15,6 @@ class Solution:
                 ans.append(nums[i])
                 if i == n-1:
                     ans.append(nums[i])
-                
         res=[]
         i = 0
         while i < len(ans)-1:
