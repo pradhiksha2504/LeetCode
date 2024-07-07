@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/pradhiksha2504/LeetCode/tree/master/1642-water-bottles) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/pradhiksha2504/LeetCode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
