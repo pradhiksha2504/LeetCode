@@ -33,7 +33,6 @@ class Solution:
                 count = (count + 1)
                 if count == 0:
                     count = 2
-                print(i, count)
                 if count == n:
                     count = -1*n
             return abs(count)
