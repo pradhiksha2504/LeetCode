@@ -4,7 +4,6 @@ class Solution:
         s=s.lstrip()
         if len(s)==0:
             return 0
-        a=""
         sign = 1
         if s[0] in ["-","+"]:
             if s[0] == "-":
@@ -13,12 +12,11 @@ class Solution:
             else:
                 s = s.replace("+","",1)
         for i in range(len(s)):
-            if s[i].isdigit():
-                a+=s[i]
-            else:
+            if s[i].isdigit() is False:
+                s = s[:i]
                 break
-        if len(a)!=0:
-            num = sign*int(a)
+        if len(s)!=0:
+            num = sign*int(s)
             min_val = -2**31
             max_val = 2**31 - 1
             if num < min_val:
