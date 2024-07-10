@@ -1,7 +1,5 @@
 class Solution:
     def minOperations(self, logs: List[str]) -> int:
-        if len(logs)==1:
-            return 1
         main = ""
         fol = []
         for i in range(len(logs)):
@@ -13,16 +11,15 @@ class Solution:
                 curr = main
             else:
                 if main == "":
-                    main = logs[i]
+                    main = curr = logs[i]
                     fol.append(main)
-                    curr = main
                 else:
                     curr = logs[i]
                     fol.append(curr)
-        # print(fol,curr,main)
-        if  len(fol) == 1:
+        n = len(fol)
+        if  n == 1:
             if curr == main:
                 return 1
             return 0
-        return len(fol)
+        return n
         
