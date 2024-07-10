@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/pradhiksha2504/LeetCode/tree/master/0724-find-pivot-index) |
 | [1293-three-consecutive-odds](https://github.com/pradhiksha2504/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1833-find-the-highest-altitude](https://github.com/pradhiksha2504/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -29,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/pradhiksha2504/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/pradhiksha2504/LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
