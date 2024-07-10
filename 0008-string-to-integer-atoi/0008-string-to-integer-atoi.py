@@ -1,7 +1,7 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
         s=s.lstrip()
-        if s=="":
+        if not s:
             return 0
         sign = 1
         if s[0] in ("-","+"):
@@ -9,7 +9,7 @@ class Solution:
                 sign = -1
             s = s[1:]
         for i in range(len(s)):
-            if s[i].isdigit() is False:
+            if not s[i].isdigit():
                 s = s[:i]
                 break
         if len(s)>0:
