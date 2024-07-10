@@ -2,7 +2,7 @@ import sys
 class Solution:
     def myAtoi(self, s: str) -> int:
         s=s.lstrip()
-        if len(s)==0:
+        if s=="":
             return 0
         sign = 1
         if s[0] in ["-","+"]:
@@ -15,7 +15,7 @@ class Solution:
             if s[i].isdigit() is False:
                 s = s[:i]
                 break
-        if len(s)!=0:
+        if len(s)>0:
             num = sign*int(s)
             min_val = -2**31
             max_val = 2**31 - 1
