@@ -12,15 +12,14 @@ class Solution:
             if not s[i].isdigit():
                 s = s[:i]
                 break
-        if len(s)>0:
-            num = sign*int(s)
-            min_val = -2**31
-            max_val = 2**31 - 1
-            if num < min_val:
-                return min_val
-            elif num > max_val:
-                return max_val
-            else:
-                return num
-        return 0
+        if not s:
+            return 0
+        num = sign*int(s)
+        min_val = -2**31
+        max_val = 2**31 - 1
+        if num < min_val:
+            return min_val
+        elif num > max_val:
+            return max_val
+        return num
         
