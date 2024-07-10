@@ -1,9 +1,7 @@
 from sortedcontainers import SortedList
 class Solution:
     def getSubarrayBeauty(self, nums: List[int], k: int, x: int) -> List[int]:
-        first = SortedList()
-        for i in range(k):
-            first.add(nums[i])
+        first = SortedList(nums[:k])
         res = []
         n = len(nums)
         ind = x-1
