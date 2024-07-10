@@ -2,19 +2,19 @@ class Solution:
     def minOperations(self, logs: List[str]) -> int:
         main = ""
         fol = []
-        for i in range(len(logs)):
-            if logs[i] == '../':
+        for i in logs:
+            if i == '../':
                 curr = main
                 if len(fol) >0:
                     fol.pop()
-            elif logs[i] == './':
+            elif i == './':
                 curr = main
             else:
                 if main == "":
-                    main = curr = logs[i]
+                    main = curr = i
                     fol.append(main)
                 else:
-                    curr = logs[i]
+                    curr = i
                     fol.append(curr)
         n = len(fol)
         if  n == 1:
