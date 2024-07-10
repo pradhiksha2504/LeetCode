@@ -15,8 +15,7 @@ class Solution:
         if not s:
             return 0
         num = sign*int(s)
-        min_val = -2**31
-        max_val = 2**31 - 1
+        min_val, max_val= -2**31,2**31 - 1
         if num < min_val:
             return min_val
         elif num > max_val:
