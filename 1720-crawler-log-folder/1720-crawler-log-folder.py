@@ -1,5 +1,7 @@
 class Solution:
     def minOperations(self, logs: List[str]) -> int:
+        if len(logs)==1:
+            return 1
         main = ""
         fol = []
         for i in range(len(logs)):
@@ -22,6 +24,5 @@ class Solution:
             if curr == main:
                 return 1
             return 0
-        
         return len(fol)
         
