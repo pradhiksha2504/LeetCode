@@ -4,18 +4,16 @@ class Solution:
         def isPrefix(s1,s2):
             m = len(s1)
             n = len(s2)
+            # print(s2[:m],s2[n-m])
             if s1 == s2[:m] and s1 == s2[-m:]:
+                print("hi")
                 return True
 
         n = len(words)
-        l,r = 0,1
-        while(l<n-1 and r<n):
-                if isPrefix(words[l],words[r])==True:
+        for i in range(n-1):
+            for j in range(i+1,n):
+                if isPrefix(words[i],words[j])==True:
                     count += 1
-                r +=1
-                if r == n:
-                    l += 1
-                    r = l+1
         return count
 
         
