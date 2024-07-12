@@ -5,9 +5,7 @@ class Solution {
         int l = 0;
         int r = n-1;
         while (l <= r){
-            System.out.println("Hello");
             if (Math.abs(nums[l]-nums[r]) >= valueDifference && Math.abs(l-r) >= indexDifference){
-                System.out.println("HI");
                 res[0]=l;
                 res[1]=r;
                 return res;
