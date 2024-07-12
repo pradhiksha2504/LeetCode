@@ -9,7 +9,6 @@ class Solution {
                 mini = 0;
             }   
         }
-        int val = (int)maxi;
-        return val;
+        return maxi;
     }
 }
