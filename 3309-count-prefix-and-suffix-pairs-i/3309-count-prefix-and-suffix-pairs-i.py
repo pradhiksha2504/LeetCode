@@ -4,9 +4,7 @@ class Solution:
         def isPrefix(s1,s2):
             m = len(s1)
             n = len(s2)
-            # print(s2[:m],s2[n-m])
             if s1 == s2[:m] and s1 == s2[-m:]:
-                print("hi")
                 return True
 
         n = len(words)
