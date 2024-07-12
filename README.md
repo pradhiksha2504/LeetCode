@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pradhiksha2504/LeetCode/tree/master/0053-maximum-subarray) |
 | [0724-find-pivot-index](https://github.com/pradhiksha2504/LeetCode/tree/master/0724-find-pivot-index) |
 | [1293-three-consecutive-odds](https://github.com/pradhiksha2504/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/pradhiksha2504/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pradhiksha2504/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pradhiksha2504/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
