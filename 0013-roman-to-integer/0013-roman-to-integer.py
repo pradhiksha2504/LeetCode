@@ -8,8 +8,7 @@ class Solution:
             if val <= temp:
                 count += val
             else:
-                val = abs(temp - val)
-                count = (count - temp) + val
+                count = (count - temp) + abs(temp - val)
             temp = val
         return count
         
