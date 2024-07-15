@@ -9,8 +9,7 @@ class Solution:
                 count += val
             else:
                 val = abs(temp - val)
-                count -= temp
-                count += val
+                count = (count - temp) + val
             temp = val
         return count
         
