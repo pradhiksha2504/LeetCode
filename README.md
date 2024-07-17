@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/pradhiksha2504/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pradhiksha2504/LeetCode/tree/master/0013-roman-to-integer) |
 | [0728-self-dividing-numbers](https://github.com/pradhiksha2504/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1642-water-bottles](https://github.com/pradhiksha2504/LeetCode/tree/master/1642-water-bottles) |
