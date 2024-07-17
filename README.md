@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/pradhiksha2504/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/pradhiksha2504/LeetCode/tree/master/0013-roman-to-integer) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2406-decode-the-message](https://github.com/pradhiksha2504/LeetCode/tree/master/2406-decode-the-message) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pradhiksha2504/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pradhiksha2504/LeetCode/tree/master/0013-roman-to-integer) |
+| [2406-decode-the-message](https://github.com/pradhiksha2504/LeetCode/tree/master/2406-decode-the-message) |
 | [2751-sliding-subarray-beauty](https://github.com/pradhiksha2504/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 ## Sliding Window
 |  |
