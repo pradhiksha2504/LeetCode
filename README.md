@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pradhiksha2504/LeetCode/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/pradhiksha2504/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/pradhiksha2504/LeetCode/tree/master/0053-maximum-subarray) |
 | [0724-find-pivot-index](https://github.com/pradhiksha2504/LeetCode/tree/master/0724-find-pivot-index) |
 | [1293-three-consecutive-odds](https://github.com/pradhiksha2504/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pradhiksha2504/LeetCode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/pradhiksha2504/LeetCode/tree/master/0041-first-missing-positive) |
 | [2406-decode-the-message](https://github.com/pradhiksha2504/LeetCode/tree/master/2406-decode-the-message) |
 | [2751-sliding-subarray-beauty](https://github.com/pradhiksha2504/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 ## Sliding Window
