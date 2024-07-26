@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pradhiksha2504/LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/pradhiksha2504/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/pradhiksha2504/LeetCode/tree/master/0053-maximum-subarray) |
+| [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/pradhiksha2504/LeetCode/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/pradhiksha2504/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pradhiksha2504/LeetCode/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/0948-sort-an-array) |
 | [2502-sort-the-people](https://github.com/pradhiksha2504/LeetCode/tree/master/2502-sort-the-people) |
 | [3321-type-of-triangle](https://github.com/pradhiksha2504/LeetCode/tree/master/3321-type-of-triangle) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pradhiksha2504/LeetCode/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/pradhiksha2504/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Divide and Conquer
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/pradhiksha2504/LeetCode/tree/master/0441-arranging-coins) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
