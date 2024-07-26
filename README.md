@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/pradhiksha2504/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pradhiksha2504/LeetCode/tree/master/0013-roman-to-integer) |
+| [0441-arranging-coins](https://github.com/pradhiksha2504/LeetCode/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/pradhiksha2504/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1642-water-bottles](https://github.com/pradhiksha2504/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/pradhiksha2504/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/0948-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/pradhiksha2504/LeetCode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
