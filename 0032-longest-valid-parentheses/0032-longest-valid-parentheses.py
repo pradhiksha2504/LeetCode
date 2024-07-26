@@ -1,7 +1,5 @@
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
-        if len(s)==0:
-            return 0
         stack = [-1]
         count = 0
         for i in range(len(s)):
