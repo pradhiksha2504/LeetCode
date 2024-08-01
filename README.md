@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pradhiksha2504/LeetCode/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/pradhiksha2504/LeetCode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/pradhiksha2504/LeetCode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/pradhiksha2504/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/pradhiksha2504/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/pradhiksha2504/LeetCode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/pradhiksha2504/LeetCode/tree/master/1642-water-bottles) |
