@@ -151,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/pradhiksha2504/LeetCode/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1811-fix-names-in-a-table](https://github.com/pradhiksha2504/LeetCode/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
