@@ -8,11 +8,11 @@ class Solution:
             if (r,c) in visit:
                 return 0
             visit.add((r, c))
-            perim = dfs(r, c+1) #right
-            perim += dfs(r+1, c) #top
-            perim += dfs(r, c-1) #left
-            perim += dfs(r-1, c) #below
-            return perim
+            perimeter = dfs(r, c+1) #right
+            perimeter += dfs(r+1, c) #top
+            perimeter += dfs(r, c-1) #left
+            perimeter += dfs(r-1, c) #below
+            return perimeter
         for i in range(rows):
             for j in range(cols):
                 if grid[i][j] == 1:
