@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pradhiksha2504/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/pradhiksha2504/LeetCode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/pradhiksha2504/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/pradhiksha2504/LeetCode/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/0948-sort-an-array) |
@@ -175,12 +176,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pradhiksha2504/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pradhiksha2504/LeetCode/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/0200-number-of-islands) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/pradhiksha2504/LeetCode/tree/master/0155-min-stack) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
