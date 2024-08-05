@@ -3,7 +3,6 @@ class Solution:
         if not grid:
             return -1
         def dfs(r, c):
-            # q = collections.deque()
             q = []
             visit.add((r, c))
             q.append((r,c))
