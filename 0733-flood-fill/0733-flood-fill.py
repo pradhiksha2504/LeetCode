@@ -10,6 +10,8 @@ class Solution:
             q.append((r, c))
             visit.add((r, c))
             directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
+            curr = image[sr][sc]
+            image[sr][sc] = color
 
             while q:
                 row, col = q.popleft()
@@ -19,10 +21,7 @@ class Solution:
                         image[r][c] = color
                         q.append((r, c))
                         visit.add((r,c))
-            # return image
 
-        curr = image[sr][sc]
-        image[sr][sc] = color
         bfs(sr, sc)
         return image
         
