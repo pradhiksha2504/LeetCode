@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pradhiksha2504/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/pradhiksha2504/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/pradhiksha2504/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/pradhiksha2504/LeetCode/tree/master/0133-clone-graph) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradhiksha2504/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2406-decode-the-message](https://github.com/pradhiksha2504/LeetCode/tree/master/2406-decode-the-message) |
@@ -191,11 +192,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/pradhiksha2504/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/pradhiksha2504/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/pradhiksha2504/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/pradhiksha2504/LeetCode/tree/master/0733-flood-fill) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/pradhiksha2504/LeetCode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
