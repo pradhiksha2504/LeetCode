@@ -8,10 +8,10 @@ class Solution:
             if (r,c) in visit:
                 return 0
             visit.add((r, c))
-            perim = dfs(r, c+1)
-            perim += dfs(r+1, c)
-            perim += dfs(r, c-1)
-            perim += dfs(r-1, c)
+            perim = dfs(r, c+1) #right
+            perim += dfs(r+1, c) #top
+            perim += dfs(r, c-1) #left
+            perim += dfs(r-1, c) #below
             return perim
         for i in range(rows):
             for j in range(cols):
