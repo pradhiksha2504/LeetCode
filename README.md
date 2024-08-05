@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pradhiksha2504/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/pradhiksha2504/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/pradhiksha2504/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/pradhiksha2504/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/pradhiksha2504/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pradhiksha2504/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/pradhiksha2504/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradhiksha2504/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pradhiksha2504/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/pradhiksha2504/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/pradhiksha2504/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Divide and Conquer
