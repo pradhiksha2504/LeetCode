@@ -3,12 +3,13 @@ class Solution:
         if not grid:
             return -1
         def bfs(r, c):
-            q = collections.deque()
+            # q = collections.deque()
+            q = []
             visit.add((r, c))
             q.append((r,c))
             directions = [[1,0], [-1,0],[0,1],[0,-1]]
             while q:
-                row, col = q.popleft()
+                row, col = q.pop()
                 for dr, dc in directions:
                     r  = row + dr
                     c = col + dc
