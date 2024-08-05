@@ -12,11 +12,10 @@ class Solution:
                 for dr, dc in directions:
                     r  = row + dr
                     c = col + dc
-                    if r in range(rows) and c in range(cols) and grid[r][c] == "1" and (r, c) not in visit:
+                    if (r in range(rows) and c in range(cols) and grid[r][c] == "1" and (r, c) not in visit):
                         q.append((r,c))
                         visit.add((r,c))
                 
-
                 
         visit = set()
         rows, cols = len(grid), len(grid[0])
@@ -26,6 +25,5 @@ class Solution:
                 if (r, c) not in visit and grid[r][c] == "1":
                     bfs(r,c)
                     islands+=1
-
         return islands
         
