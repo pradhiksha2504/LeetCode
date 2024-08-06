@@ -1,15 +1,12 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
-        hm = {}
+        hm = [0] * 26
         for i in word:
-            if i in hm:
-                hm[i] += 1
-            else:
-                hm[i] = 1
-        hm = {k: v for k, v in sorted(hm.items(), key=lambda item: item[1],reverse = True)}
+            hm[ord('a')-ord(i)] += 1
+        hm = sorted(hm, reverse = True)
         count = 0
         char= 0
-        for j in hm.values():
+        for j in hm:
             count +=j * ((char // 8)+1)
             char += 1
         return count
