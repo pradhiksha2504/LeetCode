@@ -4,6 +4,8 @@ class Solution:
         for i in word:
             hm[ord('a')-ord(i)] += 1
         hm = sorted(hm, reverse = True)
+        if 0 in hm:
+            hm = hm[:hm.index(0)] 
         count = 0
         char= 0
         for j in hm:
