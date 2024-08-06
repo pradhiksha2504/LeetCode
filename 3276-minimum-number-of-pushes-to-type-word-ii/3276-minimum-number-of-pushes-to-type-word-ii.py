@@ -10,7 +10,6 @@ class Solution:
         count = 0
         char= 0
         for j in hm.values():
-            print(j)
             count +=j * ((char // 8)+1)
             char += 1
         return count
