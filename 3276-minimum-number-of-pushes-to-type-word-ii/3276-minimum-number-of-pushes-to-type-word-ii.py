@@ -1,8 +1,9 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
         hm = [0] * 26
+        ind = ord('a')
         for i in word:
-            hm[ord('a')-ord(i)] += 1
+            hm[ind-ord(i)] += 1
         hm = sorted(hm, reverse = True)
         if 0 in hm:
             hm = hm[:hm.index(0)] 
