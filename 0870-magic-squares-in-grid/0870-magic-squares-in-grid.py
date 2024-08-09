@@ -7,7 +7,6 @@ class Solution:
         count = 0
         
         def search(r, c):
-            print("r c: ", r,c)
             global count
             matrix = []
             dup = set()
@@ -22,10 +21,8 @@ class Solution:
                     matrix.append(row)
                 else:
                     pass
-            print("matrix: ", matrix)
             if magic(matrix,dup):
                 count += 1
-                print("count: ", count)
         def magic(matrix, dup):
             if len(dup)!= 9:
                 return False
@@ -37,7 +34,6 @@ class Solution:
                     rowSum = x
                 else:
                     return False
-            # print("rowsum: ", rowSum)
             ind = 0
             while ind < 3:
                 temp = 0
@@ -46,7 +42,6 @@ class Solution:
                 if colSum == 0 or temp == colSum:
                     colSum = temp   
                 ind += 1
-            print("ROW AND COL SUM: ", rowSum, colSum)
             r, c = 0, 0
             r1,c1 = 2,0
             while r < 3 and c < 3 and r1 >= 0 and c1 <3 :
@@ -56,14 +51,11 @@ class Solution:
                 c += 1
                 r1 -=1
                 c1 += 1
-            print("d1, d2: ", d1, d2)
             return d1 == d2 == rowSum == colSum
 
         for i in range(rows):
             for j in range(cols):
                 if i+3 <= rows and j+3<=cols:
-                    print("hi")
                     search(i,j)
 
-        # print(count)
         return count
