@@ -23,7 +23,7 @@ class Solution:
         def magic(matrix, dup):
             if len(dup)!= 9:
                 return False
-            d1, d2, rowSum, colSum = 0, 0, 0, 0
+            rowSum, colSum = 0, 0
             for i in matrix:
                 x = sum(i)
                 if x == rowSum or rowSum == 0:
@@ -36,17 +36,12 @@ class Solution:
                 for i in range(3):
                     temp += matrix[i][ind]
                 if colSum == 0 or temp == colSum:
-                    colSum = temp   
+                    colSum = temp  
+                else:
+                    return False 
                 ind += 1
-            r, c = 0, 0
-            r1,c1 = 2,0
-            while r < 3 and c < 3 and r1 >= 0 and c1 <3 :
-                d1 += matrix[r][c]
-                d2 += matrix[r1][c1]
-                r += 1
-                c += 1
-                r1 -=1
-                c1 += 1
+            d1 = matrix[0][0]+matrix[1][1]+matrix[2][2]
+            d2 = matrix[2][0]+matrix[1][1]+matrix[0][2]
             return d1 == d2 == rowSum == colSum
 
         for i in range(rows):
