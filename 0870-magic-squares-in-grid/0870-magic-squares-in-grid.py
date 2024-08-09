@@ -23,6 +23,10 @@ class Solution:
         def magic(matrix, dup):
             if len(dup)!= 9:
                 return False
+            d1 = matrix[0][0]+matrix[1][1]+matrix[2][2]
+            d2 = matrix[2][0]+matrix[1][1]+matrix[0][2]
+            if d1 != d2:
+                return False
             rowSum, colSum = 0, 0
             for i in matrix:
                 x = sum(i)
@@ -40,8 +44,7 @@ class Solution:
                 else:
                     return False 
                 ind += 1
-            d1 = matrix[0][0]+matrix[1][1]+matrix[2][2]
-            d2 = matrix[2][0]+matrix[1][1]+matrix[0][2]
+            
             return d1 == d2 == rowSum == colSum
 
         for i in range(rows):
