@@ -17,17 +17,13 @@ class Solution:
                     if ele in range(1,10):
                         row.append(grid[i][j])
                         dup.add(grid[i][j])
-                if len(row) == 3:
-                    matrix.append(row)
-                else:
-                    pass
+                matrix.append(row)
             if magic(matrix,dup):
                 count += 1
         def magic(matrix, dup):
             if len(dup)!= 9:
                 return False
-            d1, d2 = 0, 0
-            rowSum, colSum = 0,0
+            d1, d2, rowSum, colSum = 0, 0, 0, 0
             for i in matrix:
                 x = sum(i)
                 if x == rowSum or rowSum == 0:
