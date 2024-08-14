@@ -1,6 +1,6 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        preMap = {i:[] for i in range(numCourses)}
+        preMap = defaultdict(list)
         for course, pre in prerequisites:
             preMap[course].append(pre)
         
