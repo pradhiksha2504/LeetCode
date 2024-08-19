@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/pradhiksha2504/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/pradhiksha2504/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3533-snake-in-matrix](https://github.com/pradhiksha2504/LeetCode/tree/master/3533-snake-in-matrix) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/pradhiksha2504/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pradhiksha2504/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pradhiksha2504/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3533-snake-in-matrix](https://github.com/pradhiksha2504/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/pradhiksha2504/LeetCode/tree/master/3221-find-the-peaks) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pradhiksha2504/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/pradhiksha2504/LeetCode/tree/master/3321-type-of-triangle) |
+| [3533-snake-in-matrix](https://github.com/pradhiksha2504/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Stack
 |  |
 | ------- |
