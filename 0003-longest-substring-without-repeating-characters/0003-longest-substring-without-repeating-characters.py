@@ -3,8 +3,9 @@ class Solution(object):
         if len(s)==0:
             return 0
         b = s[0]
-        ans = [b]
-        mlen = len(ans[0])
+        # ans = [b]
+        # mlen = len(ans[0])
+        mlen = len(b)
         for i in range(1,len(s)):
             if s[i] in b:
                 ind=b.index(s[i])
@@ -13,7 +14,6 @@ class Solution(object):
             else:
                 b+=s[i]
             if len(b)>mlen:
-                ans=[b]
+                # ans=[b]
                 mlen=len(b)
-        # return len(ans[0])
         return mlen
