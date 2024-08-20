@@ -5,8 +5,6 @@ class Solution:
         l, r = 0, len(piles)-1
         turn = 1
         while l <= r:
-            print(piles[l], piles[r], turn)
-            print("Alice: ",alice," bob: ", bob)
             if piles[l] > piles[r]:
                 if turn == 1:
                     alice += piles[l]
