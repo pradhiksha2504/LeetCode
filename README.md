@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/pradhiksha2504/LeetCode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/pradhiksha2504/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/pradhiksha2504/LeetCode/tree/master/0507-perfect-number) |
+| [0592-fraction-addition-and-subtraction](https://github.com/pradhiksha2504/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0728-self-dividing-numbers](https://github.com/pradhiksha2504/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/pradhiksha2504/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/pradhiksha2504/LeetCode/tree/master/0909-stone-game) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/pradhiksha2504/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1642-water-bottles](https://github.com/pradhiksha2504/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/pradhiksha2504/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3533-snake-in-matrix](https://github.com/pradhiksha2504/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pradhiksha2504/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pradhiksha2504/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0434-number-of-segments-in-a-string](https://github.com/pradhiksha2504/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0592-fraction-addition-and-subtraction](https://github.com/pradhiksha2504/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2406-decode-the-message](https://github.com/pradhiksha2504/LeetCode/tree/master/2406-decode-the-message) |
