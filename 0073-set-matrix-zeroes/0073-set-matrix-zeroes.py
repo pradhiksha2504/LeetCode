@@ -1,5 +1,7 @@
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
+        if not matrix:
+            return []
         rows, cols = len(matrix), len(matrix[0])
         visited = set()
         def dfs(r, c):
