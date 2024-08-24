@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/pradhiksha2504/LeetCode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/pradhiksha2504/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/pradhiksha2504/LeetCode/tree/master/0507-perfect-number) |
+| [0564-find-the-closest-palindrome](https://github.com/pradhiksha2504/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/pradhiksha2504/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0728-self-dividing-numbers](https://github.com/pradhiksha2504/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/pradhiksha2504/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pradhiksha2504/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pradhiksha2504/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0434-number-of-segments-in-a-string](https://github.com/pradhiksha2504/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0564-find-the-closest-palindrome](https://github.com/pradhiksha2504/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/pradhiksha2504/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0749-shortest-completing-word](https://github.com/pradhiksha2504/LeetCode/tree/master/0749-shortest-completing-word) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
