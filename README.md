@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/pradhiksha2504/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0434-number-of-segments-in-a-string](https://github.com/pradhiksha2504/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/pradhiksha2504/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0749-shortest-completing-word](https://github.com/pradhiksha2504/LeetCode/tree/master/0749-shortest-completing-word) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2406-decode-the-message](https://github.com/pradhiksha2504/LeetCode/tree/master/2406-decode-the-message) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/pradhiksha2504/LeetCode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/pradhiksha2504/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/pradhiksha2504/LeetCode/tree/master/0733-flood-fill) |
+| [0749-shortest-completing-word](https://github.com/pradhiksha2504/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0870-magic-squares-in-grid](https://github.com/pradhiksha2504/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/pradhiksha2504/LeetCode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/0948-sort-an-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pradhiksha2504/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/pradhiksha2504/LeetCode/tree/master/0133-clone-graph) |
 | [0575-distribute-candies](https://github.com/pradhiksha2504/LeetCode/tree/master/0575-distribute-candies) |
+| [0749-shortest-completing-word](https://github.com/pradhiksha2504/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0870-magic-squares-in-grid](https://github.com/pradhiksha2504/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradhiksha2504/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
