@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pradhiksha2504/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/pradhiksha2504/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pradhiksha2504/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0389-find-the-difference](https://github.com/pradhiksha2504/LeetCode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/pradhiksha2504/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/pradhiksha2504/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/pradhiksha2504/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pradhiksha2504/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/pradhiksha2504/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/pradhiksha2504/LeetCode/tree/master/0133-clone-graph) |
+| [0389-find-the-difference](https://github.com/pradhiksha2504/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/pradhiksha2504/LeetCode/tree/master/0575-distribute-candies) |
 | [0749-shortest-completing-word](https://github.com/pradhiksha2504/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0870-magic-squares-in-grid](https://github.com/pradhiksha2504/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pradhiksha2504/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/pradhiksha2504/LeetCode/tree/master/0075-sort-colors) |
+| [0389-find-the-difference](https://github.com/pradhiksha2504/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradhiksha2504/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/pradhiksha2504/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/pradhiksha2504/LeetCode/tree/master/0476-number-complement) |
 ## Number Theory
 |  |
