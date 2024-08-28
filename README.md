@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/pradhiksha2504/LeetCode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/pradhiksha2504/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/pradhiksha2504/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/pradhiksha2504/LeetCode/tree/master/0739-daily-temperatures) |
 | [0749-shortest-completing-word](https://github.com/pradhiksha2504/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0870-magic-squares-in-grid](https://github.com/pradhiksha2504/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/pradhiksha2504/LeetCode/tree/master/0909-stone-game) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pradhiksha2504/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pradhiksha2504/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/pradhiksha2504/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/pradhiksha2504/LeetCode/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/pradhiksha2504/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Prefix Sum
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/pradhiksha2504/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/pradhiksha2504/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
