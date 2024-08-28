@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradhiksha2504/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1833-find-the-highest-altitude](https://github.com/pradhiksha2504/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2035-count-sub-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/pradhiksha2504/LeetCode/tree/master/2502-sort-the-people) |
 | [2751-sliding-subarray-beauty](https://github.com/pradhiksha2504/LeetCode/tree/master/2751-sliding-subarray-beauty) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pradhiksha2504/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/0200-number-of-islands) |
+| [2035-count-sub-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/pradhiksha2504/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/pradhiksha2504/LeetCode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/pradhiksha2504/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [2035-count-sub-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/2035-count-sub-islands) |
 ## Design
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/pradhiksha2504/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/pradhiksha2504/LeetCode/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/pradhiksha2504/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/pradhiksha2504/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/pradhiksha2504/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/pradhiksha2504/LeetCode/tree/master/0733-flood-fill) |
+| [2035-count-sub-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
