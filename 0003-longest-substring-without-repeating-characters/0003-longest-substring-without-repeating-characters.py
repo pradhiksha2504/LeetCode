@@ -11,6 +11,5 @@ class Solution(object):
                 b+=s[i]
             else:
                 b+=s[i]
-            if len(b)>mlen:
-                mlen=len(b)
+            mlen = max(mlen, len(b))
         return mlen
