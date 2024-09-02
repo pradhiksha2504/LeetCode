@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/pradhiksha2504/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1642-water-bottles](https://github.com/pradhiksha2504/LeetCode/tree/master/1642-water-bottles) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pradhiksha2504/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2645-pass-the-pillow](https://github.com/pradhiksha2504/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3533-snake-in-matrix](https://github.com/pradhiksha2504/LeetCode/tree/master/3533-snake-in-matrix) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradhiksha2504/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1833-find-the-highest-altitude](https://github.com/pradhiksha2504/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pradhiksha2504/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/pradhiksha2504/LeetCode/tree/master/2502-sort-the-people) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/pradhiksha2504/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/pradhiksha2504/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pradhiksha2504/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/pradhiksha2504/LeetCode/tree/master/0441-arranging-coins) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pradhiksha2504/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
 | ------- |
