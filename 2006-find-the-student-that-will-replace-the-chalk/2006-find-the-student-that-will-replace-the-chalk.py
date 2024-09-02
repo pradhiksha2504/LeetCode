@@ -8,6 +8,4 @@ class Solution:
             if x < 0:
                 return i
             i += 1
-            if i == n:
-                i = 0
         return i
