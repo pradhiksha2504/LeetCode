@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/pradhiksha2504/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1642-water-bottles](https://github.com/pradhiksha2504/LeetCode/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pradhiksha2504/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/pradhiksha2504/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2645-pass-the-pillow](https://github.com/pradhiksha2504/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3533-snake-in-matrix](https://github.com/pradhiksha2504/LeetCode/tree/master/3533-snake-in-matrix) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/pradhiksha2504/LeetCode/tree/master/0749-shortest-completing-word) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pradhiksha2504/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/pradhiksha2504/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2406-decode-the-message](https://github.com/pradhiksha2504/LeetCode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/pradhiksha2504/LeetCode/tree/master/2502-sort-the-people) |
