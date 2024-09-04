@@ -9,11 +9,5 @@ class Solution:
             while ind < n:
                 temp.append(grid[ind][i])
                 ind += 1
-            columns.append(temp)
-            # if temp in grid:
-                # count += 1
-        # count = 0
-        print(columns)
-        for i in columns:
-            count += grid.count(i)
+            count += grid.count(temp)
         return count
