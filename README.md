@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pradhiksha2504/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pradhiksha2504/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/pradhiksha2504/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2645-pass-the-pillow](https://github.com/pradhiksha2504/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3533-snake-in-matrix](https://github.com/pradhiksha2504/LeetCode/tree/master/3533-snake-in-matrix) |
 ## String
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/pradhiksha2504/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/pradhiksha2504/LeetCode/tree/master/2502-sort-the-people) |
 | [2722-prime-in-diagonal](https://github.com/pradhiksha2504/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2751-sliding-subarray-beauty](https://github.com/pradhiksha2504/LeetCode/tree/master/2751-sliding-subarray-beauty) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pradhiksha2504/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2406-decode-the-message](https://github.com/pradhiksha2504/LeetCode/tree/master/2406-decode-the-message) |
+| [2428-equal-row-and-column-pairs](https://github.com/pradhiksha2504/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/pradhiksha2504/LeetCode/tree/master/2502-sort-the-people) |
 | [2751-sliding-subarray-beauty](https://github.com/pradhiksha2504/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pradhiksha2504/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/pradhiksha2504/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2035-count-sub-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/pradhiksha2504/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2722-prime-in-diagonal](https://github.com/pradhiksha2504/LeetCode/tree/master/2722-prime-in-diagonal) |
 ## Design
 |  |
