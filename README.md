@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/pradhiksha2504/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/pradhiksha2504/LeetCode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/pradhiksha2504/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/pradhiksha2504/LeetCode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/pradhiksha2504/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/pradhiksha2504/LeetCode/tree/master/0733-flood-fill) |
