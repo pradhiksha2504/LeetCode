@@ -8,7 +8,6 @@ class Solution:
                 temp += 1
             else:
                 temp = 0
-
             maxlen = max(maxlen, temp)
         return maxlen
 
