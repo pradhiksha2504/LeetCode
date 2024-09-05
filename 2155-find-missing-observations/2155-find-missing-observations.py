@@ -4,9 +4,7 @@ class Solution:
         if miss < n or miss > n*6:
             return []
         res = [1]*n
-        i = 0
         miss -= n
-        curr = miss
         for i in range(n):
             x = min(5, miss)
             res[i] += x
