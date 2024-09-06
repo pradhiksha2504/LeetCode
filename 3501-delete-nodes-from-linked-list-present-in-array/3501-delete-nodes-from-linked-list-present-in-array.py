@@ -11,27 +11,11 @@ class Solution:
         if not head:
             return None
         temp = head
-        while temp:
-            if temp.val in nums:
-                temp = head
-                while temp.next:
-                    if temp.next.val in nums:
-                        delete = temp.next
-                        temp.next = delete.next
-                        delete.next = None
-                        del delete
-                    else:
-                        if temp:
-                            temp = temp.next
-                if temp.val in nums:
-                    temp = head
-                    while temp.next:
-                        prev = temp
-                        temp = temp.next
-                    prev.next = None
-                    temp = None
-
-            if temp:
+        while temp and temp.next:
+            if temp.next.val in nums:
+                temp.next = temp.next.next
+            else:
                 temp = temp.next
+                
         return head
                 
