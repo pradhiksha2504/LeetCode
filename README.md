@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/pradhiksha2504/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/pradhiksha2504/LeetCode/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/pradhiksha2504/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/pradhiksha2504/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/pradhiksha2504/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/pradhiksha2504/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/pradhiksha2504/LeetCode/tree/master/0733-flood-fill) |
+| [1484-linked-list-in-binary-tree](https://github.com/pradhiksha2504/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
@@ -319,10 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/pradhiksha2504/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/pradhiksha2504/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/pradhiksha2504/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/pradhiksha2504/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/pradhiksha2504/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -354,5 +358,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/pradhiksha2504/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pradhiksha2504/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
