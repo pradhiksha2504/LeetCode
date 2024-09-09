@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pradhiksha2504/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/pradhiksha2504/LeetCode/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/pradhiksha2504/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/pradhiksha2504/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/pradhiksha2504/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/pradhiksha2504/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/pradhiksha2504/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2411-spiral-matrix-iv](https://github.com/pradhiksha2504/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/pradhiksha2504/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/pradhiksha2504/LeetCode/tree/master/2502-sort-the-people) |
 | [2722-prime-in-diagonal](https://github.com/pradhiksha2504/LeetCode/tree/master/2722-prime-in-diagonal) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/pradhiksha2504/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2035-count-sub-islands](https://github.com/pradhiksha2504/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/pradhiksha2504/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/pradhiksha2504/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2722-prime-in-diagonal](https://github.com/pradhiksha2504/LeetCode/tree/master/2722-prime-in-diagonal) |
 ## Design
@@ -360,5 +363,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/pradhiksha2504/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/pradhiksha2504/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/pradhiksha2504/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pradhiksha2504/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
