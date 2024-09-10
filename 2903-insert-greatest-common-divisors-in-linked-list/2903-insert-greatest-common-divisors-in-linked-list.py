@@ -8,10 +8,7 @@ class Solution:
         temp = head
         while temp.next:
             sec = temp.next
-            n1 = temp.val
-            n2 = sec.val
-            # print(n1, n2)
-            gcd = math.gcd(n1, n2)
+            gcd = math.gcd(temp.val, sec.val)
 
             newnode = ListNode(gcd)
             temp.next = newnode
