@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pradhiksha2504/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/pradhiksha2504/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pradhiksha2504/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/pradhiksha2504/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Divide and Conquer
 |  |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/pradhiksha2504/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/pradhiksha2504/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pradhiksha2504/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/pradhiksha2504/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/pradhiksha2504/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pradhiksha2504/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
