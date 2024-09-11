@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pradhiksha2504/LeetCode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/pradhiksha2504/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/pradhiksha2504/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/pradhiksha2504/LeetCode/tree/master/0338-counting-bits) |
 | [0909-stone-game](https://github.com/pradhiksha2504/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/pradhiksha2504/LeetCode/tree/master/1013-fibonacci-number) |
 ## Trie
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/pradhiksha2504/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/pradhiksha2504/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/pradhiksha2504/LeetCode/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pradhiksha2504/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
