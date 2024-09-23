@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/pradhiksha2504/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [1179-game-play-analysis-i](https://github.com/pradhiksha2504/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1670-patients-with-a-condition](https://github.com/pradhiksha2504/LeetCode/tree/master/1670-patients-with-a-condition) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/pradhiksha2504/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/pradhiksha2504/LeetCode/tree/master/1811-fix-names-in-a-table) |
 ## Union Find
 |  |
