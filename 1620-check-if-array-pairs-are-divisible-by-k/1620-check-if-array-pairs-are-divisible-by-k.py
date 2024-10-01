@@ -7,7 +7,7 @@ class Solution:
                 rem[x] += 1
             else:
                 rem[x] = 1
-        print(rem)
+    
         if 0 in rem:
             if rem[0]% 2 != 0:
                 return False
