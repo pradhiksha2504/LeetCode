@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/pradhiksha2504/LeetCode/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/pradhiksha2504/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0468-validate-ip-address](https://github.com/pradhiksha2504/LeetCode/tree/master/0468-validate-ip-address) |
+| [0500-keyboard-row](https://github.com/pradhiksha2504/LeetCode/tree/master/0500-keyboard-row) |
 | [0564-find-the-closest-palindrome](https://github.com/pradhiksha2504/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/pradhiksha2504/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0749-shortest-completing-word](https://github.com/pradhiksha2504/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/pradhiksha2504/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/pradhiksha2504/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/pradhiksha2504/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/pradhiksha2504/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/pradhiksha2504/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/pradhiksha2504/LeetCode/tree/master/0724-find-pivot-index) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pradhiksha2504/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/pradhiksha2504/LeetCode/tree/master/0133-clone-graph) |
 | [0389-find-the-difference](https://github.com/pradhiksha2504/LeetCode/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/pradhiksha2504/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/pradhiksha2504/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/pradhiksha2504/LeetCode/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/pradhiksha2504/LeetCode/tree/master/0749-shortest-completing-word) |
