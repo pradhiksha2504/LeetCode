@@ -1,6 +1,5 @@
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:
-        key = ["qwertyuiop","asdfghjkl","zxcvbnm"]
         res = []
         for i in words:
             s=i.lower()
