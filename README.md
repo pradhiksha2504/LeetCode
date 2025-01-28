@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pradhiksha2504/LeetCode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/pradhiksha2504/LeetCode/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/pradhiksha2504/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0468-validate-ip-address](https://github.com/pradhiksha2504/LeetCode/tree/master/0468-validate-ip-address) |
 | [0564-find-the-closest-palindrome](https://github.com/pradhiksha2504/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/pradhiksha2504/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0749-shortest-completing-word](https://github.com/pradhiksha2504/LeetCode/tree/master/0749-shortest-completing-word) |
