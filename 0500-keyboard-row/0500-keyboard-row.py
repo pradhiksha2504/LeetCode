@@ -1,20 +1,23 @@
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:
+        key = ["qwertyuiop","asdfghjkl","zxcvbnm"]
         res = []
         for i in words:
+            flag = True
             s=i.lower()
-            f = {}
+            if s[0] in "qwertyuiop" :
+                ind=0
+            elif s[0] in "asdfghjkl":
+                ind=1
+            else:
+                ind=2
             for j in s:
-                if j in f:
-                    continue
-                if j in "qwertyuiop" :
-                    f[j]=0
-                elif j in "asdfghjkl":
-                    f[j]=1
-                else:
-                    f[j]=2
-            if len(set(f.values())) == 1:
+                if j not in key[ind]:
+                    flag = False
+                    break
+            if flag:
                 res.append(i)
+                
         return res
 
                 
