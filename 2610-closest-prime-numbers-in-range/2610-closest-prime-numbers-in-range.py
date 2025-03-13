@@ -17,16 +17,11 @@ class Solution:
         if len(primes) == 2:
             return primes
         
-        # print(primes)
-        
         minDiff = 2
         ans = []
         for i in range(len(primes)-1):
             diff = primes[i+1]-primes[i]
             if diff <= minDiff:
                 minDiff = diff
-                ans.append([primes[i], primes[i+1]])
                 return [primes[i], primes[i+1]]
-
-        return ans
         
