@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/pradhiksha2504/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pradhiksha2504/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/pradhiksha2504/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pradhiksha2504/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pradhiksha2504/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/pradhiksha2504/LeetCode/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/pradhiksha2504/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/pradhiksha2504/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/pradhiksha2504/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/pradhiksha2504/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pradhiksha2504/LeetCode/tree/master/0455-assign-cookies) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/pradhiksha2504/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pradhiksha2504/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
