@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pradhiksha2504/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/pradhiksha2504/LeetCode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pradhiksha2504/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/pradhiksha2504/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |
