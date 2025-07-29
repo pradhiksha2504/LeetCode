@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pradhiksha2504/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/pradhiksha2504/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/pradhiksha2504/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pradhiksha2504/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/pradhiksha2504/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pradhiksha2504/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2722-prime-in-diagonal](https://github.com/pradhiksha2504/LeetCode/tree/master/2722-prime-in-diagonal) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradhiksha2504/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/pradhiksha2504/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1813-maximum-erasure-value](https://github.com/pradhiksha2504/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pradhiksha2504/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2751-sliding-subarray-beauty](https://github.com/pradhiksha2504/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 ## Enumeration
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/pradhiksha2504/LeetCode/tree/master/0441-arranging-coins) |
 | [1046-max-consecutive-ones-iii](https://github.com/pradhiksha2504/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pradhiksha2504/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pradhiksha2504/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Greedy
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pradhiksha2504/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pradhiksha2504/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pradhiksha2504/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pradhiksha2504/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Number Theory
 |  |
 | ------- |
