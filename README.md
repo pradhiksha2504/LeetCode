@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/pradhiksha2504/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pradhiksha2504/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/pradhiksha2504/LeetCode/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pradhiksha2504/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pradhiksha2504/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2722-prime-in-diagonal](https://github.com/pradhiksha2504/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2751-sliding-subarray-beauty](https://github.com/pradhiksha2504/LeetCode/tree/master/2751-sliding-subarray-beauty) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pradhiksha2504/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/pradhiksha2504/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pradhiksha2504/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pradhiksha2504/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Number Theory
 |  |
 | ------- |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/pradhiksha2504/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pradhiksha2504/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
