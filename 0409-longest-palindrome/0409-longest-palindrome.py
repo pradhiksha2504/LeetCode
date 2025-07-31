@@ -8,24 +8,19 @@ class Solution:
                 f[i] += 1
             else:
                 f[i] = 1
+        if len(f) == 1:
+            return f[i]
         count = 0
-        odd = []
+        odd = 0
         for i, j in f.items():
             if j % 2 != 0:
-                odd.append(j)
+                count += j-1
+                odd += 1
             else:
                 count += j
-        if odd:
-            maxifreq = max(odd)
-            count += maxifreq
-            flag = False
-            for j in odd:
-                if j == maxifreq:
-                    if not flag:
-                        flag = True
-                        continue
-                count = count + j -1
-        return count
+        if odd == 0:
+            return count 
+        return count + 1
 
 
 
