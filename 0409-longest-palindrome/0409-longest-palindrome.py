@@ -12,7 +12,7 @@ class Solution:
             return f[i]
         count = 0
         odd = 0
-        for i, j in f.items():
+        for j in f.values():
             if j % 2 != 0:
                 count += j-1
                 odd += 1
