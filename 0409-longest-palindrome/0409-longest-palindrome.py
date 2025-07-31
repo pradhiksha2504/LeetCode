@@ -9,17 +9,17 @@ class Solution:
             else:
                 f[i] = 1
         count = 0
-        odd = {}
+        odd = []
         for i, j in f.items():
             if j % 2 != 0:
-                odd.update({i:j})
+                odd.append(j)
             else:
                 count += j
-        if len(odd) > 0:
-            maxifreq = max(odd.values())
+        if odd:
+            maxifreq = max(odd)
             count += maxifreq
             flag = False
-            for j in odd.values():
+            for j in odd:
                 if j == maxifreq:
                     if not flag:
                         flag = True
