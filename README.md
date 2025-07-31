@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/pradhiksha2504/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/pradhiksha2504/LeetCode/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/pradhiksha2504/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/pradhiksha2504/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/pradhiksha2504/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pradhiksha2504/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/pradhiksha2504/LeetCode/tree/master/0338-counting-bits) |
 | [0909-stone-game](https://github.com/pradhiksha2504/LeetCode/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/pradhiksha2504/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/pradhiksha2504/LeetCode/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pradhiksha2504/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/pradhiksha2504/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/pradhiksha2504/LeetCode/tree/master/0645-set-mismatch) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/pradhiksha2504/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pradhiksha2504/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pradhiksha2504/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pradhiksha2504/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
