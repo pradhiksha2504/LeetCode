@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/pradhiksha2504/LeetCode/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/pradhiksha2504/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pradhiksha2504/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/pradhiksha2504/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/pradhiksha2504/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/pradhiksha2504/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pradhiksha2504/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/pradhiksha2504/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [0940-fruit-into-baskets](https://github.com/pradhiksha2504/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/pradhiksha2504/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradhiksha2504/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pradhiksha2504/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradhiksha2504/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/pradhiksha2504/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/pradhiksha2504/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1813-maximum-erasure-value](https://github.com/pradhiksha2504/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/pradhiksha2504/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
