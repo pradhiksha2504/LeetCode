@@ -5,7 +5,7 @@ class Solution {
             if(prices[i] - min > profit){
                 profit = prices[i] - min;
             }
-            else if(prices[i] < min){
+            if(prices[i] < min){
                 min = prices[i];
             }
         }
