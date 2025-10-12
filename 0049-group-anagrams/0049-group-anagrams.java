@@ -19,6 +19,7 @@ class Solution {
         }
         List<List<String>> result = new ArrayList<>();
         for(Map.Entry<String, List<String>> entry : map.entrySet()){
+            List<String> words = entry.getValue();
             result.add(entry.getValue());
         }
         return result;
